@@ -18,4 +18,6 @@
     * [ტექსტი](lectures/5-for-loop/5-for-loop.md)
     * [ForExample](lectures/5-for-loop/ForExample.java)
 6. while ციკლი
+    * [ვიდეო](list.md)
+    * [ტექსტი](lectures/6-while-loop/6-while-loop.md)
 7. if ოპერატორი
