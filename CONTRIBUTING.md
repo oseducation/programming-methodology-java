@@ -2,7 +2,8 @@
 პირველ რიგში ძალიან დიდი მადლობა ამ პროექტში კონტრიბუციისთვის რომ მოიცალე. 
 
 ## რა უნდა ვიცოდე სანამ კონტრიბუციას გავაკეთებ?
-უნდა გესმოდეს როგორ მუშაობს git. [აქ](https://guides.github.com/introduction/git-handbook/) შეგიძლია ნახო მოკლე მიმოხილვა.
+1. უნდა გესმოდეს როგორ მუშაობს git. [აქ](https://guides.github.com/introduction/git-handbook/) შეგიძლია ნახო მოკლე მიმოხილვა.
+2. უნდა იცოდე როგორ იწერება markdown. [აქ](https://guides.github.com/features/mastering-markdown/) შეგიძლია ნახო დეტალები.
 
 ## როგორ გავაკეთო კონტრიბუცია?
 * დააყენე [Git](https://help.github.com/en/articles/set-up-git)
