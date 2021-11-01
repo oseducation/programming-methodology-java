@@ -17,7 +17,7 @@ public class FillRaw extends SuperKarel {
 	public void run() {
         // მანამ სანამ კარელს მის წინ არ შეხვდება წინაღობა,
         // მან უნდა განაგრძოს სიარული ქუჩის ბოლომდე.
-		while(frontIsClear()) {
+	while(frontIsClear()) {
             // ქუჩაში მოძრაობასთან ერთად იგი დებს ბიპერებს
             putBeeper();
             // ბიპერის დადების შემდგომ გადადის მომდევნო უჯრაზე
