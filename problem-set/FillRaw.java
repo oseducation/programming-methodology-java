@@ -15,17 +15,17 @@ import stanford.karel.*;
 public class FillRaw extends SuperKarel {
 
 	public void run() {
-        // მანამ სანამ კარელს მის წინ არ შეხვდება წინაღობა,
-        // მან უნდა განაგრძოს სიარული ქუჩის ბოლომდე.
-	while(frontIsClear()) {
-            // ქუჩაში მოძრაობასთან ერთად იგი დებს ბიპერებს
-            putBeeper();
-            // ბიპერის დადების შემდგომ გადადის მომდევნო უჯრაზე
-            move();
-        }
-        // გავითვალისწინოთ Off-by-one error
-        // დამატებით ამის შესახებ იხილეთ /problem-set/FillRaw.md ფაილში
-        putBeeper();
+                // Karel must follow the street until it faces the wall.
+                // So the execution must be run while front is clear.
+                while(frontIsClear()) {
+                // While it moves through the street, it places the beepers on the road.
+                putBeeper();
+                // After placing the beeper, it needs to move to the next box.
+                move();
+                }
+                // Keep in mind the Off-by-one error
+                // Take a look at /problem-set/FillRaw.md for further explanation
+                putBeeper();
 	}
 	
 }
