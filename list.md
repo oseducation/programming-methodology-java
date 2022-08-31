@@ -1,14 +1,19 @@
 # ლექციები
+მიმდევრობით მიჰყევი ლექციებს და საკმარისი შრომით ყველაფერი გამოგივა :)
+
 1. შესავალი
     * [ვიდეო](list.md)
     * [ტექსტი](lectures/1-intro/1-intro.md)
+    * თუკი ჯერ კიდევ არ გიქნია, უკვე დროა გამართო გარემო(დააყენო eclipse და Java), ამისათვის მიჰყევი [ბმულს](development-environment.md)
 2. კარელის სამყარო
     * [ვიდეო](https://youtu.be/OufOzpYLa_s)
     * [ტექსტი](lectures/2-karel-world/2-karel-world.md)
 3. პირველი პროგრამა
     * [ვიდეო](https://youtu.be/VUw-K7lfnmg)
     * [ტექსტი](lectures/3-first-program/3-first-program.md)
-    * [FirstProgram.java](lectures/3-first-program/FirstProgram.java)
+    * ლექციაში განხილული პროგრამა [FirstProgram.java](lectures/3-first-program/FirstProgram.java)
+    * [კარელი და ეკლიფსი](karel-and-eclipse.md)
+    * [მაგალითი 1](lectures/3-first-program/1-example.md)
 4. ახალი მეთოდების შექმნა
     * [ვიდეო](https://youtu.be/OAZq-xENryk)
     * [ტექსტი](lectures/4-new-methods/4-new-methods.md)
@@ -25,7 +30,7 @@
     * [ტექსტი](lectures/6-while-loop/6-while-loop.md)
 8. ღობეებზე გადახტომა
     * [ვიდეო](https://youtu.be/YHHl52UGuZE)
-9. კომენტარები
+9.  კომენტარები
     * [ვიდეო](https://youtu.be/jmUlAXJ9grI)
 10. გამეორება
     * [ვიდეო](https://youtu.be/5yXcBwLp57I)
