@@ -44,3 +44,39 @@
     * [ვიდეო](https://youtu.be/S0vZM7HuzmY)
 15. სამყაროს გასუფთავების ამოცანა
     * [ვიდეო](https://youtu.be/VvDsN1K8v9U)
+16. კომპილაციის პროცესი
+    * [ვიდეო](https://youtu.be/GtUp84LwiQo)
+17. სხვადასხვა ტიპის პროგრამები
+    * [ვიდეო](https://youtu.be/ncNEsaguqgA)
+18. ცვლადები
+    * [ვიდეო](https://youtu.be/OcXhUTiij34)
+19. არითმეტიკული ოპერაციები
+    * [ვიდეო](https://youtu.be/TbTQJxEgqkE)
+20. დაკასტვა
+    * [ვიდეო](https://youtu.be/GgjMt6L1iUk)
+21. არითმეტიკული გამოსახულებები
+    * [ვიდეო](https://youtu.be/DTsCFCNdkN0)
+22. კონსტანტები
+    * [ვიდეო](https://youtu.be/-m_a7DnO1EU)
+23. პირობები ჯავაში
+    * [ვიდეო](https://youtu.be/LimIH2luAyQ)
+24. ცვლადების სიცოცხლის ხანგრძლივობა
+    * [ვიდეო](https://youtu.be/tnY-3ktjYZE)
+25. ლოგიკური ოპერატორები
+    * [ვიდეო](https://youtu.be/flN68TniqEA)
+26. for ციკლი ჯავაში
+    * [ვიდეო](https://youtu.be/rgNOYbW8jY8)
+27. for თუ while
+    * [ვიდეო](https://youtu.be/qK95yGUy3PA)
+28. ციკლნახევარა
+    * [ვიდეო](https://youtu.be/FNfBFjozfLE)
+29. ჭადრაკის დაფა
+    * [ვიდეო](https://youtu.be/KAnGRcOscY8)
+30. მეთოდები
+    * [ვიდეო](https://youtu.be/abMmCxa0rZQ)
+31. მეთოდების მაგალითები
+    * [ვიდეო](https://youtu.be/YFeLn7FyfnA)
+32. ფაქტორიალი
+    * [ვიდეო](https://youtu.be/3vXfgxfINPo)
+33. მეთოდები შეცდომით
+    * [ვიდეო](https://youtu.be/gqqcu1TLAlw)
