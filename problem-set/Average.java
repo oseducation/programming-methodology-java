@@ -10,8 +10,8 @@ import acm.program.*;
 public class ConsoleProgrammSample extends ConsoleProgram {
 	private double getAvarage(int firstNumber, int secondNumber) {
 		int sum = firstNumber + secondNumber; // Sum of numbers
-		double Avarage = (double) sum / 2; // Cast to double and divide by 2
-		return Avarage;
+		double avarage = (double) sum / 2; // Cast to double and divide by 2
+		return avarage;
 	}
 
 	public void run() {
