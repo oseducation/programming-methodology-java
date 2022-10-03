@@ -31,14 +31,14 @@ public class fibo extends ConsoleProgram {
         }
         return F_i;
     }
+    
     private static int sentinel = -1;
 
-	public void run() {
+    public void run() {
         while (true){
             int n = readInt("enter n ");
             if(n == sentinel)break;
             println("F" + n + " is: " + find_nth_fibonacci(n));
         }
-	}
-
+    }
 }
