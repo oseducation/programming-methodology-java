@@ -16,7 +16,7 @@ public class ConsoleProgrammSample extends ConsoleProgram {
             println("There is no n-th element in fibonnaci sequence");
             return;
         }
-	    //Initializing variables, where firstNum is fibonacci[n-2], secondNum is fibonacci[n-1]
+	    //Initializing variables, where firstNum is fibonacci[n-2] and secondNum is fibonacci[n-1]
 	    //in fibonacci[n] = fibonacci[n-2] + fibonacci[n-1] formula.
 	    //0 and 1 are fibonacci sequence starting elements.
 	    int firstNum = 0;
