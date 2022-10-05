@@ -1,10 +1,9 @@
 /*
- * File: FindRange.java
- * --------------------
- * This program is a stub for the FindRange problem, which finds the
- * smallest and largest values in a list of integers.
+ * File: Average.java
+ * ---------------------------------
+ * Average
+ * კონსოლიდან წაიკითხეთ ორი რიცხვი, დაბეჭდეთ მათი საშუალო არითმეტიკული.
  */
-
 import acm.program.*;
 
 public class ConsoleProgrammSample extends ConsoleProgram {
@@ -15,6 +14,7 @@ public class ConsoleProgrammSample extends ConsoleProgram {
 	}
 
 	public void run() {
+		// Getting input values
 		int firstNumber = readInt("Enter first number: ");
 		int secondNumber = readInt("Enter second number: ");
 		println(getAvarage(firstNumber, secondNumber));
