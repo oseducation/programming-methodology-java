@@ -16,16 +16,16 @@ public class ConsoleProgrammSample extends ConsoleProgram {
             println("There is no n-th element in fibonnaci sequence");
             return;
         }
-	    //Initializing variables, where firstNum is fibonacci[n-2] and secondNum is fibonacci[n-1]
-	    //in fibonacci[n] = fibonacci[n-2] + fibonacci[n-1] formula.
-	    //0 and 1 are fibonacci sequence starting elements.
-	    int firstNum = 0;
-	    int secondNum = 1;
-	    //If we want first element, there is no operations need to generate it.
-	    if(n == 1){
-	        println(0);
+	//Initializing variables, where firstNum is fibonacci[n-2] and secondNum is fibonacci[n-1]
+	//in fibonacci[n] = fibonacci[n-2] + fibonacci[n-1] formula.
+	//0 and 1 are fibonacci sequence starting elements.
+	int firstNum = 0;
+	int secondNum = 1;
+	//If we want first element, there is no operations need to generate it.
+	if(n == 1){
+	    println(0);
             return;
-	    }
+	}
         //Starting generating numbers from third element to n.
         for(int i = 3; i <= n; i++){
             int newNumber = firstNum + secondNum;
