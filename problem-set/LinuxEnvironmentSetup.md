@@ -22,12 +22,12 @@ Linux პლატფორმაზე გარემოს გასამა
 ![JRE Installation Using Terminal](/problem-set/images/JRE_Installation.png)
 
 ### Snap Package Manager Installation
-*ვინაიდან ტერმინალი უკვე გახსნილი გვაქვს, უბრალოდ დაგვჭირდება შემდეგი კოდის შეყვანა `sudo apt install snapd`, თუ წინა ნაბიჯის შემდეგ ტერმინალი არ გაგითიშავთ თქვენი  პაროლის შეყვანა აღარ მოგიწევთ, თუმცა თუ გამორთეთ არც ეს წარმოადგენს პრობლემას. თუ როგორ უნდა გამოიყურებოდეს თქვენი ტერმინალი მოცემული კოდის გამოყენებისას შეგიძლიათ კვლავ სურათზე იხილოთ.
+ვინაიდან ტერმინალი უკვე გახსნილი გვაქვს, უბრალოდ დაგვჭირდება შემდეგი კოდის შეყვანა `sudo apt install snapd`, თუ წინა ნაბიჯის შემდეგ ტერმინალი არ გაგითიშავთ თქვენი  პაროლის შეყვანა აღარ მოგიწევთ, თუმცა თუ გამორთეთ არც ეს წარმოადგენს პრობლემას. თუ როგორ უნდა გამოიყურებოდეს თქვენი ტერმინალი მოცემული კოდის გამოყენებისას შეგიძლიათ კვლავ სურათზე იხილოთ.
 
 ![SNAPD Installation Using Terminal](/problem-set/images/SNAPD_Installation.png)
 
 ### Eclipse Installation 
-*ტერმინალში კვლავ შეგვყავს შემდეგი კოდი `sudo snap install --classic eclipse` (იხ.სურათი)
+ტერმინალში კვლავ შეგვყავს შემდეგი კოდი `sudo snap install --classic eclipse` (იხ.სურათი)
 
 ![Eclipse Installation Using Terminal](/problem-set/images/Eclipse_Installation.png)
 
