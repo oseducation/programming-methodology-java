@@ -1,3 +1,9 @@
+/*
+ * File: Prime.java
+ * ---------------------------------
+ * დაწერეთ პროგრამა რომელიც დაადგენს შეყვანილი რიცხვი მარტივია თუ არა.
+ */
+ 
 import acm.program.ConsoleProgram;
 
 public class Prime extends ConsoleProgram {
@@ -5,9 +11,11 @@ public class Prime extends ConsoleProgram {
         int p = readInt("Enter a number: ");
         if(isPrime(p)){
             println("Yes");
-        } else println("No");
+        } else {
+            println("No");
+        }
     }
-    Boolean isPrime(int p){
+    private boolean isPrime(int p){
         // we check whether a number is less than two, because all the numbers lower than two is not a prime.
         if(p < 2) return false;
         // we iterate over the numbers and check if it is a divisor of p.
