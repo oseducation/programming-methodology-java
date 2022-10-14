@@ -1,8 +1,8 @@
 /*
- * File: FindRange.java
+ * File: AllPrimes.java
  * --------------------
- * This program is a stub for the FindRange problem, which finds the
- * smallest and largest values in a list of integers.
+ * This program is a stub for the AllPrimes problem, which finds and
+ * prints first 1000000 prime numbers.
  */
 
 import acm.program.*;
