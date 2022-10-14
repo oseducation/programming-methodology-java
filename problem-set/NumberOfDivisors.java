@@ -1,9 +1,11 @@
+/*
+* File: NumberOfDivisors.java
+* ---------------------------
+
+* ამოცანის პირობა:
+* მომხმარებელს შეყავს მთელი რიცხვი n, პროგრამამ უნდა დაბეჭდოს n ის გამყოფების რაოდენობა
+*/
 import acm.program.*;
-import acm.graphics.*;
-import java.awt.*;
-import java.awt.event.*;
-import java.util.*;
-import javax.swing.*;
 
 public class NumberOfDivisors extends ConsoleProgram {
 	
@@ -12,7 +14,7 @@ public class NumberOfDivisors extends ConsoleProgram {
 	 * In comparison with bellow method, this method works faster and does less operations
 	 */
 	private int countDivisorsFaster(int num) {
-		
+	
 		int cnt = 0;
 		int sqrtN = (int) Math.sqrt(num);
 				
