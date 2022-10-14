@@ -15,7 +15,6 @@ import stanford.karel.SuperKarel;
 public class Addition extends SuperKarel {
 
 	public void run() {
-
 		move(); // (1, 1) -> (2, 1)
 		transferFrom2x1();
 		move(); // (2, 1) -> (3, 1)
@@ -59,5 +58,4 @@ public class Addition extends SuperKarel {
 			turnAround(); // facing east
 		}
 	}
-
 }
