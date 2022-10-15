@@ -1,8 +1,8 @@
 /*
- * File: FindRange.java
+ * File: ForN.java
  * --------------------
- * This program is a stub for the FindRange problem, which finds the
- * smallest and largest values in a list of integers.
+ * კონსოლიდან წაიკითხეთ მთელი რიცხვი n და შემდეგ n ჯერ დაბეჭდეთ “hello ” + i, სადაც i
+ * იცვლება 0 დან n-1 მდე.
  */
 
 import acm.program.*;
@@ -10,14 +10,12 @@ import acm.program.*;
 public class ConsoleProgrammSample extends ConsoleProgram {
 
 	public void run() {
-		
+
 		// Read Input
 		int n = readInt();
-		
-		
-		for(int i=0;i<n;i++) {
-			println("Hello "+i);
+
+		for (int i = 0; i < n; i++) {
+			println("Hello " + i);
 		}
 	}
-
 }
