@@ -1,5 +1,3 @@
-
-
 /*
  * File: Sum1N.java
  * ----------------------------
@@ -14,12 +12,18 @@ import acm.program.*;
 public class Sum1N extends ConsoleProgram {
 
 	public void run() {
-		int num = 0;
-		while(num<=0) {
-			num = readInt("Enter n: ");
-		}
-		int sumFormula = (num*(num+1)) / 2;
-		println( "Sum of first n natural numbers is : " + sumFormula);
+		int sum = 0;
+                while(true){
+		   int num = readInt("Enter n: ");
+                   if(num > 0){
+                      for(int i = 1; i < num;i++){
+                         sum = sum + i;
+                      }
+                      break;
+                   }
+                }
+
+		println( "Sum of natural numbers untill n is : " + sum);
 	}
-	
+
 }
