@@ -8,16 +8,7 @@
 import acm.program.*;
 
 public class LeastCommonMultiple extends ConsoleProgram {
-	
-	/*
-	 * With this method we can define gcd of numbers if we already have computed lcm
-	 */
-	private int findGcd(int firstNum, int secondNum) {
-		int lcm = findLcm(firstNum, secondNum);
-		int res = firstNum * secondNum / lcm;
-		return res;
-	}
-	
+
 	/*
 	 * This method checks if first passed argument is common multiple
 	 * of other two arguments
