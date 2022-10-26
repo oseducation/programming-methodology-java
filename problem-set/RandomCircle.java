@@ -12,14 +12,15 @@ import acm.program.GraphicsProgram;
 import acm.util.RandomGenerator;
 
 public class RandomCircle extends GraphicsProgram{
-
+    
+    private RandomGenerator rg = RandomGenerator().getInstance();
+    
     public void run(){
-        RandomGenerator rg = new RandomGenerator().getInstance();
-        drawCircle(rg);
+        drawCircle();
     }
 
     // randomly generating the position, the color and the diameter of a circle.
-    private void drawCircle(RandomGenerator rg){
+    private void drawCircle(){
         double diameter = rg.nextDouble(0 , Math.min(getWidth(),getHeight()));
         double upperX = rg.nextDouble(0 , getWidth() - diameter);
         double upperY = rg.nextDouble(0 , getHeight() - diameter);
