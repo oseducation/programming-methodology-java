@@ -28,7 +28,7 @@ private final static int PAUSE_tIME = 10;
 
 ბურთის კანვასზე დახატვისთვის მთავარი ამოცანაა მისი საწყისი კოორდინატების დადგენა. რადგან მისი საწყისი მდებარეობა მარცხენა კედელთან უნდა იყოს, ბურთის x კოორდინატი იქნება 0, სურათზე კი გამოთვლილია მისი y კოორტინატი.
 
-![This is an image](/problem-set/images/MovingBall-StartingPosition.png)
+![This is an image](/problem-set/images/MovingBall-StartingPosition.PNG)
 
 მეთოდს კი საბოლოო ჯამში ექნება შემდეგი სახე:
 
@@ -58,7 +58,7 @@ private void move(GOval circle) {
 თუმცა ეს ჯერ არ არის ჩვენი ამოცანის ამოხსნა, რადგან ბურთი მუდმივად მარჯვნივ იმოძრავებს და გაცდება ფანჯრის კიდეს.
 იმისათვის, რომ როცა მარჯვენა კედელს შეეხება, გაჩერდეს, სულ უნდა ვამოწმოთ ბურთის x კოორდინატი `getX()` მეთოდით. თუ `circle.getX() >= getWidth() - DIAMETER`, ეს ნიშნავს, რომ ბურთი მარჯვენა კედელს შეეხო ან გასცდა და საჭიროა გაჩერდეს.
 
-![This is an image](/problem-set/images/MovingBall-FinalPosition.png)
+![This is an image](/problem-set/images/MovingBall-FinalPosition.PNG)
 
 ამიტომ ჩვენს ციკლში უნდა ჩავამატოთ:
 ```java
