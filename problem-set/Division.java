@@ -27,7 +27,7 @@ public class Division extends SuperKarel {
 	private void subtractSecondSquare() {
 		while (beepersPresent()) {
 			subtractOperation(); // this line subtracts third square's beepers
-									// from second square's beepers
+									// // from second square's beepers
 		}
 		increaseResult(); // this method calculates final answer on 4x1 square.
 	}
@@ -77,8 +77,10 @@ public class Division extends SuperKarel {
 			move();
 			move();
 		}
-		returnToSecondSquare(); // return to main square to start operation again.
+		returnToSecondSquare(); // return to main square to start operation
+								// again.
 	}
+
 	// starting position 5x1, facing east
 	// end position 2x1, facing east.
 	private void returnToSecondSquare() {
@@ -88,10 +90,11 @@ public class Division extends SuperKarel {
 		move();
 		turnAround();
 	}
+
 	/*
-	 *we need this method to leave beepers only on fourth square. it picks beepers from third square.
-	 *starting position 2x1, facing east.
-	 *end position: 3x1, facing east.
+	 * we need this method to leave beepers only on fourth square. it picks
+	 * beepers from third square. starting position 2x1, facing east. end
+	 * position: 3x1, facing east.
 	 */
 	private void collectBeepers() {
 		move();
