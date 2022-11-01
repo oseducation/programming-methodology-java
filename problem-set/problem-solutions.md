@@ -96,3 +96,6 @@
 32. AllPrimes
     * [ახსნა](problem-set/AllPrimes.md)
     * [კოდი](problem-set/AllPrimes.java)
+55. Sorted
+    * [ახსნა](problem-set/Sorted.md)
+    * [კოდი](problem-set/Sorted.java)
