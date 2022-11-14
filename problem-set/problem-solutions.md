@@ -96,3 +96,6 @@
 32. AllPrimes
     * [ახსნა](problem-set/AllPrimes.md)
     * [კოდი](problem-set/AllPrimes.java)
+53. FileStats
+    * [ახსნა](problem-set/FileStats.md)
+    * [კოდი](problem-set/FileStats.java)
