@@ -1,3 +1,4 @@
+// importing console program
 import acm.program.ConsoleProgram;
 
 /*
