@@ -41,17 +41,10 @@ int z = readInt("Enter a number: ");
 *დავაბრუნოთ numerator/denominator-ზე.
 
 ```java
-      double numerator = x * y * z;
-      double denominator = y * z + x * z + x * y;
+      double numerator = (double)x * y * z;
+      double denominator = (double)y * z + x * z + x * y;
       return numerator/denominator;    
 ```
----
-
-
-### შესაძლო ხარვეზები:
-*თუ a,b და c საკმაოდ დიდი რიცხვები აღმოჩდნენ, შესაძლოა ისინი ვერ ჩაეტივნონ `double`-ში. ამ პრობლემის მოგვარება გარკვეულ დონეზე
-შეგვიძლია უ.ს.ჯ-ს დახმარებით. a * b * c -ს მაგივრად გვექნებოდა უ.ს.ჯ (a,b,c) და მნიშვნელიც უფრო პატარა რიცხვი იქნებოდა.
-
 ---
 
 ### შესაძლო ამოხსნები:

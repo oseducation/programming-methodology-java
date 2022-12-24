@@ -10,7 +10,7 @@ public class HarmonicMean extends ConsoleProgram {
 	int x = readInt("Enter a number: ");
 	int y = readInt("Enter a number: ");
 	int z = readInt("Enter a number: ");
-	println(harMean(x, y , z));
+	println(harmean(x, y , z));
     }
 	
 /*
@@ -18,10 +18,9 @@ public class HarmonicMean extends ConsoleProgram {
 * --------------------------------
 * postcondition: returns their HarmonicMean
 */
-
-private double harMean(int x, int y, int z) {
-    double numerator = (double) x * y * z;
-    double denominator = (double) y * z + x * z + x * y;
-    return numerator/denominator;
+    private double harmean(int x, int y, int z) {
+        double numerator = (double) x * y * z;
+        double denominator = (double) y * z + x * z + x * y;
+        return numerator/denominator;
     }
 }
