@@ -6,7 +6,6 @@ import acm.graphics.GRect;
 import acm.program.GraphicsProgram;
 
 public class house extends GraphicsProgram {
-
 	private static final int WALL_WIDTH = 300;
 	private static final int WALL_HEIGHT = 300;
 	private static final int ROOF_HEIGHT = 100;
