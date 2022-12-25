@@ -11,7 +11,7 @@ import acm.program.GraphicsProgram;
  */
 
 
-public class BlankClass extends GraphicsProgram {
+public class EmptyGrid extends GraphicsProgram {
 	
 	private static final int CELLS = 10; // Number of cells
 
@@ -23,26 +23,13 @@ public class BlankClass extends GraphicsProgram {
 	private void emptyGrid() {
 		
 		/* Calculate a gap between each row and column */ 
-		int rowGap = calculateGap(0); 
-		int columnGap = calculateGap(1);
+		int rowGap = getHeight() / CELLS; 
+		int columnGap = getWidth() / CELLS;
 
 		drawGrid(rowGap, columnGap); // Draws grid.
 		//drawGridAlternative(rowGap, columnGap); // Draws grid with an alternative solution
 	}
 	
-
-	/* This method calculates the gap between rows and columns.
-	   The method is passed a number - 0 or 1 (int index). We mark 0 as a row and 1 as a column.
-	   Because of this marking we don't have to write two methods for rows and for columns. */
-	private int calculateGap(int index) {
-		
-		/* Get width or height of the window depending on index value */ 
-		int size = getHeight();
-		if(index == 1) size = getWidth();
-		
-		/* return number of lines which will fit in our window */ 
-		return size / CELLS;
-	}
 	
 	/* This method uses GLine to draw lines on the canvas. */ 
 	private void drawGrid(int rowGap, int columnGap) {
@@ -55,8 +42,8 @@ public class BlankClass extends GraphicsProgram {
 			double x1 = getWidth();
 			double y = row * rowGap;
 
-			GLine line = new GLine(x0, y, x1, y); // Initialise GLine object.
-			add(line); // Adds a line on the canvas.
+			GLine line = new GLine(x0, y, x1, y); 
+			add(line); 
 		}
 		
 		/* Draw Columns */
@@ -67,8 +54,8 @@ public class BlankClass extends GraphicsProgram {
 			double y1 = getHeight();
 			double x = col * columnGap;
 
-			GLine line = new GLine(x, y0, x, y1); // Initialise GLine object.
-			add(line); // Adds a line on the canvas.
+			GLine line = new GLine(x, y0, x, y1);
+			add(line);
 		}
 	}
 	
@@ -86,8 +73,8 @@ public class BlankClass extends GraphicsProgram {
 				double x = col * width;
 				double y = row * height;
 
-				GRect rect = new GRect(x, y, width, height); // Initialise GRect object.
-				add(rect); // Add rectangle on the canvas.
+				GRect rect = new GRect(x, y, width, height);
+				add(rect);
 			}
 		}
 	
