@@ -1,3 +1,4 @@
+// Program for finding gcd of 2 numbers
 import acm.program.ConsoleProgram;
 
 public class GreatestCommonDivisor extends ConsoleProgram {
@@ -21,5 +22,19 @@ public class GreatestCommonDivisor extends ConsoleProgram {
             }
         }
         return 1;
+    }
+
+    // Finds gcd of given numbers using euclid's algorithm
+    private int euclidGcd(int x, int y) {
+        // Keep going until given numbers aren't equal
+        while (x != y) {
+            // Subtract the small number from the bigger
+            if (x > y) {
+                x -= y;
+            } else {
+                y -= x;
+            }
+        }
+        return x;
     }
 }
