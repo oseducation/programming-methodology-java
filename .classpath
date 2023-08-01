@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="lectures/3-first-program"/>
+	<classpathentry kind="src" path="lectures/4-new-methods"/>
+	<classpathentry kind="src" path="lectures/5-for-loop"/>
+	<classpathentry kind="src" path="lectures/7-if-statement"/>
+	<classpathentry kind="src" path="problem-set"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/assignment1/karel.jar"/>
+	<classpathentry kind="lib" path="/Assignment2/acm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
