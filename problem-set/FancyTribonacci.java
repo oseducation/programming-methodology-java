@@ -242,7 +242,7 @@ public class FancyTribonacci extends ConsoleProgram {
 	 */
 	private void printSequence(int A0, int A1, int A2, int numberOfElements) {
 		for(int currentIndex = 0; currentIndex < numberOfElements; currentIndex++) {
-			print(findNth(A0, A1, A2, i) + " ");
+			print(findNth(A0, A1, A2, currentIndex) + " ");
 		}
 		println();
 	}
