@@ -1,98 +1,98 @@
 # ამოცანების ამოხსნები
 
 1. MoveKarel
-    * [ახსნა](problem-set/MoveKarel.md)
-    * [კოდი](problem-set/MoveKarel.java)
+    * [ახსნა](./MoveKarel.md)
+    * [კოდი](./MoveKarel.java)
 2. MoveBeepers
-    * [ახსნა](problem-set/MoveBeepers.md)
-    * [კოდი](problem-set/MoveBeepers.java)
+    * [ახსნა](./MoveBeepers.md)
+    * [კოდი](./MoveBeepers.java)
 3. EndOfTheStreet
-    * [ახსნა](problem-set/EndOfTheStreet.md)
-    * [კოდი](problem-set/EndOfTheStreet.java)
+    * [ახსნა](./EndOfTheStreet.md)
+    * [კოდი](./EndOfTheStreet.java)
 4. FillRaw
-    * [ახსნა](problem-set/FillRaw.md)
-    * [კოდი](problem-set/FillRaw.java)
+    * [ახსნა](./FillRaw.md)
+    * [კოდი](./FillRaw.java)
 5. FillFirstRaw
-    * [ახსნა](problem-set/FillFirstRaw.md)
-    * [კოდი](problem-set/FillFirstRaw.java)
+    * [ახსნა](./FillFirstRaw.md)
+    * [კოდი](./FillFirstRaw.java)
 6. Addition
-    * [ახსნა](problem-set/Addition.md)
-    * [კოდი](problem-set/Addition.java)
+    * [ახსნა](./Addition.md)
+    * [კოდი](./Addition.java)
 7. FillWorld
-    * [ახსნა](problem-set/FillWorld.md)
-    * [კოდი](problem-set/FillWorld.java)
+    * [ახსნა](./FillWorld.md)
+    * [კოდი](./FillWorld.java)
 8. Subtraction
-    * [ახსნა](problem-set/Subtraction.md)
-    * [კოდი](problem-set/Subtraction.java)
+    * [ახსნა](./Subtraction.md)
+    * [კოდი](./Subtraction.java)
 9.  Multiplication
-    * [ახსნა](problem-set/Multiplication.md)
-    * [კოდი](problem-set/Multiplication.java)
+    * [ახსნა](./Multiplication.md)
+    * [კოდი](./Multiplication.java)
 10. Division
-    * [ახსნა](problem-set/Division.md)
-    * [კოდი](problem-set/Division.java)
+    * [ახსნა](./Division.md)
+    * [კოდი](./Division.java)
 11. Maze
-    * [ახსნა](problem-set/Maze.md)
-    * [კოდი](problem-set/Maze.java)
+    * [ახსნა](./Maze.md)
+    * [კოდი](./Maze.java)
 12. House
-    * [ახსნა](problem-set/House.md)
-    * [კოდი](problem-set/House.java)
+    * [ახსნა](./House.md)
+    * [კოდი](./House.java)
 13. LineInTheMiddle
-    * [ახსნა](problem-set/LineInTheMiddle.md)
-    * [კოდი](problem-set/LineInTheMiddle.java)
+    * [ახსნა](./LineInTheMiddle.md)
+    * [კოდი](./LineInTheMiddle.java)
 14. Robot
-    * [ახსნა](problem-set/Robot.md)
-    * [კოდი](problem-set/Robot.java)
+    * [ახსნა](./Robot.md)
+    * [კოდი](./Robot.java)
 15. Average
-    * [ახსნა](problem-set/Average.md)
-    * [კოდი](problem-set/Average.java)
+    * [ახსნა](./Average.md)
+    * [კოდი](./Average.java)
 16. HarmonicMean
-    * [ახსნა](problem-set/HarmonicMean.md)
-    * [კოდი](problem-set/HarmonicMean.java)
+    * [ახსნა](./HarmonicMean.md)
+    * [კოდი](./HarmonicMean.java)
 17. RealNumber
-    * [ახსნა](problem-set/RealNumber.md)
-    * [კოდი](problem-set/RealNumber.java)
+    * [ახსნა](./RealNumber.md)
+    * [კოდი](./RealNumber.java)
 18. Max2Ints
-    * [ახსნა](problem-set/Max2Ints.md)
-    * [კოდი](problem-set/Max2Ints.java)
+    * [ახსნა](./Max2Ints.md)
+    * [კოდი](./Max2Ints.java)
 19. ForN
-    * [ახსნა](problem-set/ForN.md)
-    * [კოდი](problem-set/ForN.java)
+    * [ახსნა](./ForN.md)
+    * [კოდი](./ForN.java)
 20. SumN
-    * [ახსნა](problem-set/SumN.md)
-    * [კოდი](problem-set/SumN.java)
+    * [ახსნა](./SumN.md)
+    * [კოდი](./SumN.java)
 21. EmptyGrid
-    * [ახსნა](problem-set/EmptyGrid.md)
-    * [კოდი](problem-set/EmptyGrid.java)
+    * [ახსნა](./EmptyGrid.md)
+    * [კოდი](./EmptyGrid.java)
 22. ChessBoard
-    * [ახსნა](problem-set/ChessBoard.md)
-    * [კოდი](problem-set/ChessBoard.java)
+    * [ახსნა](./ChessBoard.md)
+    * [კოდი](./ChessBoard.java)
 23. Sum1N
-    * [ახსნა](problem-set/Sum1N.md)
-    * [კოდი](problem-set/Sum1N.java)
+    * [ახსნა](./Sum1N.md)
+    * [კოდი](./Sum1N.java)
 24. NumberOfDivisors
-    * [ახსნა](problem-set/NumberOfDivisors.md)
-    * [კოდი](problem-set/NumberOfDivisors.java)
+    * [ახსნა](./NumberOfDivisors.md)
+    * [კოდი](./NumberOfDivisors.java)
 25. LeastCommonMultiple
-    * [ახსნა](problem-set/LeastCommonMultiple.md)
-    * [კოდი](problem-set/LeastCommonMultiple.java)
+    * [ახსნა](./LeastCommonMultiple.md)
+    * [კოდი](./LeastCommonMultiple.java)
 26. GreatestCommonDivisor
-    * [ახსნა](problem-set/GreatestCommonDivisor.md)
-    * [კოდი](problem-set/GreatestCommonDivisor.java)
+    * [ახსნა](./GreatestCommonDivisor.md)
+    * [კოდი](./GreatestCommonDivisor.java)
 27. Power
-    * [ახსნა](problem-set/Power.md)
-    * [კოდი](problem-set/Power.java)
+    * [ახსნა](./Power.md)
+    * [კოდი](./Power.java)
 28. CountEvenNumbers
-    * [ახსნა](problem-set/CountEvenNumbers.md)
-    * [კოდი](problem-set/CountEvenNumbers.java)
+    * [ახსნა](./CountEvenNumbers.md)
+    * [კოდი](./CountEvenNumbers.java)
 29. Fibonacci
-    * [ახსნა](problem-set/Fibonacci.md)
-    * [კოდი](problem-set/Fibonacci.java)
+    * [ახსნა](./Fibonacci.md)
+    * [კოდი](./Fibonacci.java)
 30. ReverseInt
-    * [ახსნა](problem-set/ReverseInt.md)
-    * [კოდი](problem-set/ReverseInt.java)
+    * [ახსნა](./ReverseInt.md)
+    * [კოდი](./ReverseInt.java)
 31. Prime
-    * [ახსნა](problem-set/Prime.md)
-    * [კოდი](problem-set/Prime.java)
+    * [ახსნა](./Prime.md)
+    * [კოდი](./Prime.java)
 32. AllPrimes
-    * [ახსნა](problem-set/AllPrimes.md)
-    * [კოდი](problem-set/AllPrimes.java)
+    * [ახსნა](./AllPrimes.md)
+    * [კოდი](./AllPrimes.java)
