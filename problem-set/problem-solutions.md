@@ -96,3 +96,6 @@
 32. AllPrimes
     * [ახსნა](problem-set/AllPrimes.md)
     * [კოდი](problem-set/AllPrimes.java)
+54. Max2Numbers
+    * [ახსნა](problem-set/Max2Numbers.md)
+    * [კოდი](problem-set/Max2Numbers.java)
