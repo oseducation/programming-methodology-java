@@ -96,3 +96,6 @@
 32. AllPrimes
     * [ახსნა](problem-set/AllPrimes.md)
     * [კოდი](problem-set/AllPrimes.java)
+69. ScrollChat
+    * [ახსნა](problem-set/ScrollChat.md)
+    * [კოდი](problem-set/ScrollChat.java)
