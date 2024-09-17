@@ -1,5 +1,6 @@
+@@ -1,31 +0,0 @@
 /*
- * File: FillRaw.java
+* File: FillRaw.java
  * ----------------------------
  * FillRaw დაეხმარება კარელს, შეავსოს ქუჩა ბიპერებით,
  * რომელზედაც ის ამჟამად იმყოფება.
@@ -27,5 +28,5 @@ public class FillRaw extends SuperKarel {
                 // Take a look at /problem-set/FillRaw.md for further explanation
                 putBeeper();
 	}
-	
+
 }
